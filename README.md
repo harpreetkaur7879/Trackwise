@@ -24,11 +24,7 @@ Color-coded banner alerts on the dashboard:
 - Top 5 most expensive subscriptions
 - Savings opportunity insights
 - Month-over-month change indicator
-
-### 🎨 Revolut-Inspired UI
-Dark navy theme, purple accents, clean Inter typography, and smooth Recharts visualizations.
-
----
+  
 
 ## 🛠 Tech Stack
 
